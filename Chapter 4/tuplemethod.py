@@ -1,0 +1,7 @@
+a=(1,4,5,6,6,3,"aaa",False)
+n=a.count(6)
+print(n)
+t=a.index(4)
+print(t)
+print(4 in a)
+print(len(a))
